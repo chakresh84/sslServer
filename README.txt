@@ -69,7 +69,7 @@ Put config like. Please note, we need to provide the ketstore file information h
            keystoreFile="G:/software/apache-tomcat-7.0.70/webapps/mykeystore" keystorePass="password"
            clientAuth="false" sslProtocol="TLS"/>
 
-Sample file is included in the project for reference.
+Sample server.xml file is included in the project for reference.
 
 ---------------------------------------------------------------------------------
 
